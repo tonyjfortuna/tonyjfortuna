@@ -4,9 +4,13 @@ Software engineering student at SNHU, halfway through a B.S. in Software Enginee
 
 ## 🚧 What I'm working on
 
+- 🚚 **RightRoute**, a route planning and dispatch tool for commercial service vehicles, built with commercial waste collection in mind. React, TypeScript, and Mapbox GL, with road snapping and route optimization.
+[Check it out](https://github.com/tonyjfortuna/rightRoute)
+
 - 🌲 **Common Ground**, a Farming Simulator 25 map mod with a survival start and a gated economy system. Written in Lua and XML. [Check it out](https://github.com/tonyjfortuna/commonGround)
+
 - 📚 Coursework and projects from my degree, covering statistics, game development, and applied programming. See [schoolProjects](https://github.com/tonyjfortuna/schoolProjects)
 
 ## 🛠️ Background
 
-Self-taught in HTML, CSS, PHP, SQL, XML, JavaScript, Python, Java and C++, with college coursework building on top of that foundation. 📜
+Self-taught in HTML, CSS, PHP, SQL, XML, JavaScript, Python, Java and C++, with college coursework building on top of that foundation. Also hold an A.S. in Business Administration and Computer Science, and a Computer Programming Certificate. 📜
