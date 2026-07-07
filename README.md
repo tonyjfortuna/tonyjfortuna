@@ -13,4 +13,4 @@ Software engineering student at SNHU, halfway through a B.S. in Software Enginee
 
 ## 🛠️ Background
 
-Self-taught in HTML, CSS, PHP, SQL, XML, JavaScript, Python, Java and C++, with college coursework building on top of that foundation. Also hold an A.S. in Business Administration and Computer Science, and a Computer Programming Certificate. 📜
+Self-taught in HTML, CSS, PHP, SQL, XML, JavaScript, Python, Java and C++, with college coursework building on top of that foundation. 📜
